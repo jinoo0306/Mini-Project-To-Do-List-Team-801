@@ -9,14 +9,13 @@
       Goalper is a platform designed to assist users in achieving their goals by providing various helpful features. The name "Goalper" is derived from combining "goal" and "helper," signifying its purpose to aid users in reaching their objectives.
     </td>
   </tr>
-
 </table>
 
 <br/>
 
 ## 🚀 Features
 
-1. **To-Do List**
+1. **To Do List**
    - Manage your tasks efficiently with a customizable to-do list feature.
    - Prioritize tasks, set deadlines, and mark them as completed to stay organized and focused on your goal.
 
