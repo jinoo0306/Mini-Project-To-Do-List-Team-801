@@ -23,6 +23,7 @@ function CRUDButton({ colorCode, placeHolder }: CRUDButton) {
       className={`w-36 h-14 rounded-3xl border-4 ${buttonBorderColor[colorCode]} ${buttonFontColor[colorCode]} text-center flex items-center justify-center font-bmjua text-xl bg-white cursor-pointer`}
     >
       {placeHolder}
+      
     </div>
   );
 }
